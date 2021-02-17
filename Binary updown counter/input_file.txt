@@ -1,0 +1,7 @@
+0011		1	1	0	0	30 ns		0000 	   clearing_at_rising_edge.
+1100		0	1	0	0	30 ns		0000	   no_change_on_a_falling_edge.
+1100		1	0	0	1	30 ns		1100	   presetting_at_rising_edge.			
+1111		0	0	0	1	30 ns		1100	   no_change_on_a_falling_edge.
+1111		1	0	1	0	30 ns		1101	   counting_up_at_rising_edge.
+0000		0	0	1	0	30 ns		1101	   no_change_on_a_falling_edge.
+0000		1	0	0	0	30 ns		1100	   counting_down_at_rising_edge.    

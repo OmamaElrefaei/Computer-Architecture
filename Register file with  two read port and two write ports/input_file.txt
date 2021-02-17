@@ -1,0 +1,7 @@
+01001		01010		01001		01010		00011		00101		0	0		50 ns		xxxxx		xxxxx  	starting.
+01001		01010		01001		01010		00011		00101		1	0		50 ns		00011		xxxxx 	writing_and_reading_using_ports1.
+10010		10011		10010		10011		01011		01101		0	1		50 ns		xxxxx		01101 	writing_and_reading_using_ports2.
+10101		10111		10101		10111		01111		10001		1	1		50 ns		01111		10001 	writing_and_reading_using_ports1,2.
+10001		10001		10001		10001		00111		01001		1	1		50 ns		00111		00111 	writing_to_the_same_register.
+
+

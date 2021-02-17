@@ -1,0 +1,5 @@
+1	0	1	0	10 ns	1	0     0		resetting_the_mac_hine.
+1	0	0	1	10 ns	0	0     1		the_dependence_of_Mearly_output_(inc)_on_the_current_state_and_the_current_input.
+0	1	0	1	10 ns	0	1     1		the_dependence_of_Moor_output_(c)_only_on_the_current_state.
+0	1	0       0       10 na   0       1     1		the_sensitivity_of_synchronization.
+0	1	0	1	10 ns	0	0     0		the_dependence_of_Mearly_output_(dec)_on_the_current_state_and_the_current_input.

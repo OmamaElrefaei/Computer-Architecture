@@ -1,0 +1,8 @@
+0000		0 	0		0	0		0		0		10 ns		0000	clearing.
+0000		0	1		0	1		1		1		10 ns		0001	shifting_right.
+0011		0	1		0	1		1		0		10 ns		0001	falling_edge_no_output_change. 
+0011		1	0		1	0		1		1		10 ns		1000	shifting_left.
+1010		1	0		1	0		1		0		10 ns		1000	falling_edge_no_output_change.
+1010		0	0		1       1		1		1		10 ns		1010	loading.
+1111		0	0		0	0		1		0		10 ns		1010	falling_edge_no_output_change. 
+1111		0	0		0	0		1		1		10 ns		1010	no_output_change.

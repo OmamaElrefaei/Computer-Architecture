@@ -1,0 +1,16 @@
+00	00000000	00000000	50 ns	00000000	adding_two_zeros. 
+00	00000000	11111111	50 ns	11111111	adding_zero_to_negative_number. 
+00	00000001	11111111	50 ns	00000000	adding_two_negative_numbers.
+00	00001111	00000001	50 ns	00010000	adding_two_positive_numbers.
+01	00000000	00000000	50 ns	00000000	subtracting_two_zeros.
+01	00000000	11111111	50 ns   00000001	subtracting_negative_number_from_zero.
+01	11111111	11111111	50 ns	11111110	subtracting_two_negative_numbers.
+01	00010000	00000001	50 ns	00001111	subtracting_two_positive_numbers.
+10	00000000	00000000 	50 ns   00000000	multiplying_two_zeros.
+10	00000001	11111111	50 ns   11111111	multiplying_two_positive_numbers.
+10	00000001	00000001 	50 ns   00000001	multiplying_two_negative_numbers.
+10	11110000	10000000 	50 ns   00000000	multiplying_positive_number_by_zero.
+11	00000000	00000001 	50 ns   00000000	dividing_zero_by_positive_number.
+11	00000001	00000000 	50 ns   xxxxxxxx	dividing_positive_number_by_zero.
+11	00000001	00000001 	50 ns   00000001	dividing_two_positive_numbers.
+11	11110000	00000001 	50 ns   11110000	dividing_negative_number_by_positive_number.

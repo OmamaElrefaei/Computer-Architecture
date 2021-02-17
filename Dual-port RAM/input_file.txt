@@ -1,0 +1,3 @@
+0	1	0000	0000	1100	10 ns	xxxx	the_ability_to_write.
+1	0	0000	1111	1100	10 ns	1100	the_ability_to_read.
+1	1	1100	1100	1111	10 ns	1111	the_ability_to_read_and_write_at_the_same_time.
