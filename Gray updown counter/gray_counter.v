@@ -15,7 +15,7 @@ module gray_counter
 	
 		d_out[`n-1] = d_bin[`n-1];
 		
-		for (j = `n -2;  j > 0; j = j-1) begin
+		for (j = `n -2;  j >= 0; j = j-1) begin
 			d_out[j] = d_bin [j+1] ^ d_bin [j]; 
 		end
 		
